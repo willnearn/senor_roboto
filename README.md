@@ -22,7 +22,8 @@ Goal: First robotics project
   - [ ] light up an indicator when I detect an object 
   - [ ] sensor understands target motion -- probably graph this on my computer
 - [ ] Controller
-  - [ ] buy
+  - [ ] buy controller
+  - [ ] buy driver
   - [ ] figure out arduino & fill out more tasks as necessary
 - [ ] Controller + motor integration
   - [ ] input to arduino to control its angle via script
