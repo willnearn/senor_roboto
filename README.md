@@ -17,7 +17,6 @@ Goal: First robotics project
     - [ ] Steal Conor's jumper wires
     - [ ] Steal Conor's alligator clips
     - [ ] Senor McFerren has LEDs as little indicators
-  - [ ] 
 - [ ] Sensor
   - [ ] buy
   - [ ] light up an indicator when I detect an object 
@@ -28,6 +27,9 @@ Goal: First robotics project
 - [ ] Controller + motor integration
   - [ ] input to arduino to control its angle via script
   - [ ] Integrate motor to actually determine yaw/pitch instead of just turning a knob
+- [ ] Pan/tilt kit
+  - [ ] Buy
+  - [ ] Integrate with DC motor
 - [ ] Controller + motor + sensor integration
   - [ ] 1D target following (PD control?)
   - [ ] 2D target following (PD control?)
